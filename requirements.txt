@@ -1,0 +1,12 @@
+vertexai
+google-cloud-aiplatform[adk,agent_engines]==1.112.0
+google-cloud-bigquery
+google-cloud-logging
+google-cloud-core
+google-auth
+protobuf
+requests
+cloudpickle
+pydantic
+deprecated
+python-dotenv

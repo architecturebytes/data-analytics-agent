@@ -1,5 +1,7 @@
 # Retail Analytics Assistant
 
+Ref: https://www.youtube.com/watch?v=PaQuYyFFODM
+
 This project is a retail analytics assistant that leverages Google Cloud's Vertex AI Agent Builder, BigQuery, and a React frontend to provide insights into retail data through a conversational interface.
 
 ## Features
